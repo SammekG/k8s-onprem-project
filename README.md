@@ -4,6 +4,10 @@ This project demonstrates how to deploy a Kubernetes cluster on on-premise serve
 
 ---
 
+![Architecture Diagram](Diagram.png)
+
+---
+
 ## 🔧 Components
 - **Infrastructure**: On-prem (bare-metal or VM)
 - **Cluster Tooling**: kubeadm, kubelet, containerd, kubectl
